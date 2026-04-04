@@ -15,6 +15,9 @@
   "icon": "assets/risr/icon.png",
   "environment": "*",
   "entrypoints": {
+    "client": [
+      "com.bludos.risr.client.RisrClient"
+    ],
     "main": [
       "com.bludos.risr.ExampleMod"
     ]
@@ -24,8 +27,9 @@
   ],
   "depends": {
     "fabricloader": ">=0.14.21",
-    "minecraft": "~1.20.1",
-    "java": ">=17",
-    "fabric-api": "*"
+    "minecraft": ">=1.21.10",
+    "java": ">=21",
+    "fabric-api": "*",
+    "vulkanmod": "*"
   }
 }
