@@ -1,6 +1,6 @@
 # Risr
 
-Risr is a dedicated Vulkan-based Shader mod designed to sit on top of VulkanMod. It completely bypasses legacy GLSL and uses native Vulkan SPIR-V binaries (`.spv`) to bring advanced shader capabilities to Minecraft.
+Ris1r is a dedicated Vulkan-based Shader mod designed to sit on top of VulkanMod. It completely bypasses legacy GLSL and uses native Vulkan SPIR-V binaries (`.spv`) to bring advanced shader capabilities to Minecraft.
 
 ## Features
 
